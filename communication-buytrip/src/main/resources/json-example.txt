@@ -1,0 +1,3 @@
+{"codigoPassagem":1, "nroCartao":12345678, "codigoSegurancaCartao":2345, "valorPassagem":2000}
+
+{"codigoPassagem":2, "nroCartao":87654322, "codigoSegurancaCartao":5432, "valorPassagem":2080}
