@@ -8,11 +8,11 @@
 		<version>2.1.9.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.project.microservice.communication.gateway</groupId>
-	<artifactId>gateway</artifactId>
+	<groupId>br.com.ms.communication.gateway</groupId>
+	<artifactId>communication-gateway</artifactId>
 	<version>1.0.0.-SNAPSHOT</version>
-	<name>gateway</name>
-	<description>Microservico responsavel por realizar o proxy das aplicações</description>
+	<name>communication-gateway</name>
+	<description>Microservice responsavel por centralizar os servicos</description>
 
 	<properties>
 		<java.version>1.8</java.version>

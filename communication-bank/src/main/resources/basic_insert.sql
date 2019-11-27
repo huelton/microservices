@@ -1,0 +1,2 @@
+insert into bank.cartao(id, codigo_seguranca_cartao, nro_cartao, valor_credito) values(1,577,123456,2000);
+insert into bank.cartao(id, codigo_seguranca_cartao, nro_cartao, valor_credito) values(2,988,654321,4000);
