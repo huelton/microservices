@@ -32,6 +32,6 @@ public class CompraController {
 	
 	@RequestMapping(path = "/meunome", method = RequestMethod.GET)
 	public String status(){
-		return "Estou na máquina do: Marcelo";
+		return "Estou na máquina do: Huelton";
 	}
 }
