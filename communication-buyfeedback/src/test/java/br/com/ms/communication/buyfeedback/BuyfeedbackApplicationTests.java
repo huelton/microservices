@@ -1,10 +1,10 @@
-package br.com.ms.communication.buyprocess;
+package br.com.ms.communication.buyfeedback;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CommunicationBuyprocess1ApplicationTests {
+class BuyfeedbackApplicationTests {
 
 	@Test
 	void contextLoads() {
